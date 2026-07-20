@@ -1,1 +1,13 @@
-vitoria
+"""
+Este é um texto de exemplo utilizado apenas para testes.
+
+A programação é uma ferramenta poderosa para resolver problemas,
+automatizar tarefas e criar soluções para diferentes áreas.
+Aprender Python é um excelente primeiro passo, pois a linguagem
+é simples, organizada e muito utilizada no desenvolvimento de
+sistemas, análise de dados, inteligência artificial e automação.
+
+Este conteúdo não possui nenhuma funcionalidade no programa,
+servindo apenas como um comentário de documentação dentro do
+arquivo Python.
+"""
